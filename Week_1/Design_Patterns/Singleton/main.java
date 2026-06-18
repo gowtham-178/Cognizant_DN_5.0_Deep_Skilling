@@ -1,5 +1,5 @@
-public class main {
-    public static void main(String[] args) {
+public class Main {
+    public static void Main(String[] args) {
         Logger logger1 = Logger.getInstance();
         Logger logger2 = Logger.getInstance();
 
