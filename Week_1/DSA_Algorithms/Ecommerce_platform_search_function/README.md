@@ -27,6 +27,10 @@ Linear Search is a sequential search algorithm. It starts at the very first elem
     Space Complexity: O(1) — Operates entirely in-place with no additional allocation.
 
 
+
+
+
+
 # 🔍 Binary Search
 ---------------------------------------------------------------------------------------------
  **Explanation**
