@@ -12,7 +12,7 @@ The focus of this workspace is the **Design Patterns** module, which forms a cor
 
 ## 📖 Program Overview
 
-Cognizant's **Digital Nurture 5.0** is an early-engagement and talent transformation initiative designed to bridge the gap between academic education and industry readiness. The **Java Full Stack Engineering (FSE) Cluster** deepskilling program is an intensive 8-to-12-week gated training framework. 
+Cognizant's **Digital Nurture 5.0** is an early-engagement and talent transformation initiative designed to bridge the gap between academic education and industry readiness. The **Java Full Stack Engineering (FSE) Cluster** deepskilling program is an intensive 7-week gated training framework. 
 
 This program equips engineers with advanced capabilities in back-end engineering, front-end frameworks, microservices architecture, and clean coding practices, preparing them to build robust enterprise-grade applications.
 
