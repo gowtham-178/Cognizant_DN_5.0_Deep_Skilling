@@ -2,6 +2,17 @@
 
 [![Java Version](https://img.shields.io/badge/Java-17%2B-orange.svg?style=for-the-badge&logo=openjdk)](https://openjdk.org/)
 [![Build Tool](https://img.shields.io/badge/Build-Maven-blue.svg?style=for-the-badge&logo=apachemaven)](https://maven.apache.org/)
+[![Spring Framework](https://img.shields.io/badge/Spring-Core%20%2F%20IoC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59F65F.svg?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
+[![JUnit 5](https://img.shields.io/badge/JUnit-5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![Mockito](https://img.shields.io/badge/Mockito-Mocking-FF6B6B.svg?style=for-the-badge)](https://site.mockito.org/)
+[![SLF4J](https://img.shields.io/badge/Logging-SLF4J-59F65F.svg?style=for-the-badge)](https://www.slf4j.org/)
+[![Oracle PL/SQL](https://img.shields.io/badge/Database-Oracle%20PL%2FSQL-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
+[![Spring Security](https://img.shields.io/badge/Spring%20Security-Authentication-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
+[![JWT](https://img.shields.io/badge/JWT-Token-black.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-Microservices-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-cloud)
+[![React](https://img.shields.io/badge/React-JS-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 [![Track](https://img.shields.io/badge/Track-Java%20Full%20Stack%20(FSE)-brightgreen.svg?style=for-the-badge)](https://www.cognizant.com)
 [![Initiative](https://img.shields.io/badge/Program-Digital%20Nurture%205.0-blueviolet.svg?style=for-the-badge)](https://www.cognizant.com)
 
